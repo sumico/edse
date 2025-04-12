@@ -9,7 +9,7 @@ page 3
 ![image](https://user-images.githubusercontent.com/130117169/235330168-f4658401-c40f-4e53-b97f-6b6d0f047f43.png)
 ---
 page 4
-![image](https://github.com/su-sumico/edse/assets/161304268/71d52912-c168-4588-bec7-9243773d0b13)
+![image](https://github.com/user-attachments/assets/adf68799-b474-464e-92d0-c2c6f266f053)
 ---
 page 5
 ![image](https://user-images.githubusercontent.com/130117169/235330183-a91bb68c-1369-452b-af5e-9a5d151a9162.png)
