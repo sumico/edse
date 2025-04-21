@@ -7,7 +7,7 @@ page 2
 
 ---
 page 3
-![image](https://github.com/su-sumico/edse/assets/161304268/dffbef1f-2223-4924-87c0-7e5a49504b1e)
+![image](https://github.com/user-attachments/assets/62de3b23-83e7-449e-8762-4f6931fe493c)
 
 ---
 page 4
