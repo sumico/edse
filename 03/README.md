@@ -15,7 +15,7 @@ page 4
 
 ---
 page 5
-![image](https://github.com/su-sumico/edse/assets/161304268/bc9e1050-f982-4700-8fb9-fc05125b5f9c)
+![image](https://github.com/user-attachments/assets/7b131a44-43ad-4cf7-a82d-222953b38164)
 
 ---
 page 6
