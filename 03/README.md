@@ -1,5 +1,5 @@
 page 1
-![image](https://github.com/su-sumico/edse/assets/161304268/7bf36d52-97b6-43fd-8b9a-8dbebf680936)
+![image](https://github.com/user-attachments/assets/38b934ca-8c53-4420-a3b1-4fe9c261ab3b)
 
 ---
 page 2
